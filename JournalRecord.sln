@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "JournalRecord", "JournalRecord\JournalRecord.vcxproj", "{EEAC876D-0A14-4DB1-B9BE-623F62BFD4F2}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "JournalRecordClient", "JournalRecordClient\JournalRecordClient.vcxproj", "{DE65685C-91D1-46B8-9427-34EC7756C279}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EEAC876D-0A14-4DB1-B9BE-623F62BFD4F2}.Debug|Win32.ActiveCfg = Debug|Win32
+		{EEAC876D-0A14-4DB1-B9BE-623F62BFD4F2}.Debug|Win32.Build.0 = Debug|Win32
+		{EEAC876D-0A14-4DB1-B9BE-623F62BFD4F2}.Release|Win32.ActiveCfg = Release|Win32
+		{EEAC876D-0A14-4DB1-B9BE-623F62BFD4F2}.Release|Win32.Build.0 = Release|Win32
+		{DE65685C-91D1-46B8-9427-34EC7756C279}.Debug|Win32.ActiveCfg = Debug|Win32
+		{DE65685C-91D1-46B8-9427-34EC7756C279}.Debug|Win32.Build.0 = Debug|Win32
+		{DE65685C-91D1-46B8-9427-34EC7756C279}.Release|Win32.ActiveCfg = Release|Win32
+		{DE65685C-91D1-46B8-9427-34EC7756C279}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
